@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CHOOSE ROOM</name>
+   <tag></tag>
+   <elementGuidId>731b3f46-15cb-4c2f-8918-891d70905477</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67a05bc0-96b4-4f11-9959-5497758a5498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>522719bd-3ed2-4c9f-a791-c17605ecc262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center relative rounded-md no-underline hover:no-underline rounded-md text-white bg-blue-500 hover:bg-indigo-700 focus:ring-indigo-500 border border-transparent shadow-sm focus:outline-none  w-full py-2 px-2</value>
+      <webElementGuid>a10b23df-7297-49e2-880d-038e38f83a15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CHOOSE ROOM</value>
+      <webElementGuid>770221f3-b27d-4d24-a221-e5f83757c104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hotel&quot;)/div[@class=&quot;mt-0 md:mt-18 p-5&quot;]/div[@class=&quot;flex flex-col gap-4 pb-5 mt-4&quot;]/div[@class=&quot;grid grid-cols-2 gap-6&quot;]/div[@class=&quot;col-span-2&quot;]/div[@class=&quot;relative flex flex-col border border-gray-200 shadow-lg rounded-md bg-white w-full h-full border-2 hover:border-2 hover:border-blue-500&quot;]/div[@class=&quot;grow w-full&quot;]/div[@class=&quot;relative w-full h-full flex flex-col  grow md:flex-row&quot;]/div[@class=&quot;grid grid-cols-12 w-full&quot;]/div[@class=&quot;col-span-12 h-full p-3 gap-2 border-t-2 flex flex-row lg:col-span-4 lg:col-span-4 3xl:col-span-4 lg:border-l-2 lg:flex-col justify-end lg:justify-between lg:border-l-2 md:border-t-0&quot;]/div[@class=&quot;flex justify-between w-full items-center gap-4 lg:items-end lg:flex-col&quot;]/div[@class=&quot;lg:w-full w-40&quot;]/button[@class=&quot;inline-flex items-center justify-center relative rounded-md no-underline hover:no-underline rounded-md text-white bg-blue-500 hover:bg-indigo-700 focus:ring-indigo-500 border border-transparent shadow-sm focus:outline-none  w-full py-2 px-2&quot;]</value>
+      <webElementGuid>11128394-b6b2-479f-82ff-76f89707323a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>6b46e4f7-9a64-46e4-800e-7af923f07b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='hotel']/div[2]/div[3]/div/div/div/div/div/div[2]/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>f181989b-66f3-4696-b9ed-1a9cca0e3483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rooms &amp; Guests'])[1]/following::button[14]</value>
+      <webElementGuid>5ca2dc3d-e51a-460e-9cc0-f4d7b8f01146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>d85452d7-c63d-459f-b1c5-0857aa172dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'CHOOSE ROOM' or . = 'CHOOSE ROOM')]</value>
+      <webElementGuid>4c837aa7-03a2-4708-a63f-ab3635168e9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

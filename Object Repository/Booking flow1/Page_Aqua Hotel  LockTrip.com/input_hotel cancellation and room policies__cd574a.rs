@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_hotel cancellation and room policies__cd574a</name>
+   <tag></tag>
+   <elementGuidId>ee071d26-ac54-4fcd-9fbb-ac2019377ab6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c287a532-6694-44b9-907e-dd987e3cb46a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>23c14b40-35e0-4efe-ac02-aa9fd58f30bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leading-none focus:ring-indigo-500 text-indigo-600 border-gray-300 rounded mr-2 h-4 w-4</value>
+      <webElementGuid>07ee2f04-a02c-4bad-bece-6c9d07246eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;bg-gray-100&quot;]/div[@class=&quot;max-w-7xl mx-auto&quot;]/form[@class=&quot;w-full&quot;]/main[@class=&quot;grid grid-cols-6 md:grid-cols-12 gap-x-[32px] justify-center p-1 md:p-6&quot;]/div[@class=&quot;col-span-full md:col-span-5&quot;]/div[@class=&quot;md:sticky top-0 z-48&quot;]/div[@class=&quot;relative flex flex-col border border-gray-200 shadow-lg rounded-md bg-white w-auto&quot;]/div[@class=&quot;grow w-full&quot;]/div[@class=&quot;w-full flex flex-col gap-2 p-4&quot;]/div[@class=&quot;my-5 p-2 flex flex-col gap-4&quot;]/div[2]/label[@class=&quot;flex flex-row items-start block text-xs text-gray-700&quot;]/input[@class=&quot;leading-none focus:ring-indigo-500 text-indigo-600 border-gray-300 rounded mr-2 h-4 w-4&quot;]</value>
+      <webElementGuid>b04f3ce3-b507-4ca7-a9c4-be583e6e67b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>a5f02716-89b4-48ce-9f5e-1a3b0788b213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/form/main/div[2]/div/div/div/div/div[4]/div[2]/label/input</value>
+      <webElementGuid>afbe7240-2694-4281-a195-48c129428c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/input</value>
+      <webElementGuid>23262525-0ea3-473d-943e-3a5d01a25f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>1a6a465b-6443-469b-b2c5-96d0abbf7a68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

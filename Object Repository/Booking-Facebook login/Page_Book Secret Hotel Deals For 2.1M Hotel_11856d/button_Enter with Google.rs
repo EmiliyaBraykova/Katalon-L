@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Enter with Google</name>
+   <tag></tag>
+   <elementGuidId>e8b3a8b3-c1d7-4c6c-8f18-c745ccef44e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3615eb01-052d-4b16-8d87-b48bd1260819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8bcd5d1e-76ff-446d-8b24-17f7ad25e6b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center relative rounded-md no-underline hover:no-underline rounded-md text-gray-600 bg-transparent hover:bg-gray-100 focus:ring-indigo-500 border border-gray-600 focus:outline-none  px-4 py-2 text-sm min-w-[150px] max-w-full w-full px-10 bg-white border-gray-400</value>
+      <webElementGuid>8e46ac49-6a21-4053-971e-bfedff646c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter with Google</value>
+      <webElementGuid>95ada860-8b07-4163-bafe-fd28c8b4f1be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-14&quot;)/div[@class=&quot;text-center flex flex-col items-center justify-center px-4&quot;]/div[@class=&quot;inline-block rounded-md max-w-full overflow-hidden text-left align-middle transition-all transform bg-white shadow-xl w-auto h-auto my-8 opacity-100 scale-100&quot;]/div[@class=&quot;max-w-5xl overflow-y-auto p-6&quot;]/div[@class=&quot;w-full md:w-[400px] relative h-auto&quot;]/div[@class=&quot;w-full relative&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full flex flex-col gap-4&quot;]/div[1]/button[@class=&quot;inline-flex items-center justify-center relative rounded-md no-underline hover:no-underline rounded-md text-gray-600 bg-transparent hover:bg-gray-100 focus:ring-indigo-500 border border-gray-600 focus:outline-none  px-4 py-2 text-sm min-w-[150px] max-w-full w-full px-10 bg-white border-gray-400&quot;]</value>
+      <webElementGuid>3ac8ca0e-d611-448a-b09c-af4c178251a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>d2123736-9411-4a68-814f-17ef3f478122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-14']/div/div[2]/div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>2762b19d-cac4-435f-af44-52639ce5ee8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::button[3]</value>
+      <webElementGuid>75b86909-cad1-4b34-9321-2f13c4d08009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AML &amp; KYC Policy'])[1]/following::button[3]</value>
+      <webElementGuid>2073aeb7-51d3-4554-b982-b77cdb7d0212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>e531de07-4f51-47dd-a262-c1979c1a548f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Enter with Google' or . = 'Enter with Google')]</value>
+      <webElementGuid>452d6a57-4729-456c-a622-8e992d9461f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

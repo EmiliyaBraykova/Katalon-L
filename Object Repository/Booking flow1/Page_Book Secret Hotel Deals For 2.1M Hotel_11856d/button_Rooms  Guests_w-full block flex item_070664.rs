@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Rooms  Guests_w-full block flex item_070664</name>
+   <tag></tag>
+   <elementGuidId>ad15e6b4-68f0-4845-9957-44a7587dd505</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6391438b-a898-45ec-bba4-de5b919a0862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e397a6d8-9213-4923-867d-6d20820d07ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full block flex items-center justify-center h-full border border-transparent rounded-b-md  text-sm font-medium text-white bg-primary-100 hover:bg-indigo-900 focus:outline-none lg:rounded-bl-none lg:rounded-r-md</value>
+      <webElementGuid>d2cb32f8-e019-4c9e-a8c7-5f7456a9aea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[1]/main[1]/div[@class=&quot;relative pt-16 pb-16 bg-sky-50 z-[5]&quot;]/div[@class=&quot;mx-auto max-w-7xl px-4 mb-16&quot;]/div[@class=&quot;relative mt-10&quot;]/div[@class=&quot;-mt-2 z-10 max-w-5xl m-auto&quot;]/div[@class=&quot;min-h-full  flex flex-col justify-center&quot;]/div[@class=&quot;mx-auto w-full lg:rounded-r-full drop-shadow-2xl&quot;]/form[1]/div[@class=&quot;grid grid-cols-12 lg:rounded-r-full&quot;]/div[@class=&quot;col-span-12 lg:col-span-4&quot;]/div[@class=&quot;grid grid-cols-12&quot;]/div[@class=&quot;col-span-12 lg:col-span-4 lg:rounded-r-full h-20 lg:h-auto&quot;]/div[@class=&quot;flex justify-center h-full&quot;]/button[@class=&quot;w-full block flex items-center justify-center h-full border border-transparent rounded-b-md  text-sm font-medium text-white bg-primary-100 hover:bg-indigo-900 focus:outline-none lg:rounded-bl-none lg:rounded-r-md&quot;]</value>
+      <webElementGuid>e602f5cb-d847-4e84-bb6e-9c33a387b93a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>c251320f-36f8-4fdd-b619-9ef365452ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/main/div[2]/div/div[2]/div[2]/div/div/form/div[2]/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>6de77c3e-cee5-4fe4-8d29-6a216b7dea6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rooms &amp; Guests'])[2]/following::button[1]</value>
+      <webElementGuid>8637976b-44cd-4d20-b2d6-6fd458968fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check out'])[2]/following::button[1]</value>
+      <webElementGuid>8e34e891-c2cf-4822-bd67-0a6cfa60e7c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What Customers Say About Us'])[1]/preceding::button[1]</value>
+      <webElementGuid>3705b8fa-8809-4792-bfba-eedd65afe825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maurice Braaksma'])[1]/preceding::button[1]</value>
+      <webElementGuid>9dd6a885-9544-4da9-bc28-7f9abfefd1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>9a93e56f-bc53-40a6-881d-bc541d628b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>63c83502-5e22-43a3-bf22-ec2cc28a8673</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

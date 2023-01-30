@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Privacy Policy_right-2 top-2 bg-whit_745a16</name>
+   <tag></tag>
+   <elementGuidId>a37fa3fb-721a-45a1-ad27-333bd278f9d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-14']/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5533cc86-9e97-481d-a2fa-9150b87e5b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right-2 top-2 bg-white rounded-full p-1.5 border border-blue-400</value>
+      <webElementGuid>d1da7470-258f-42bc-94b0-1d85ef6d2eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>2ca6b266-0d05-4044-b499-606b34033e98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-14&quot;)/div[@class=&quot;text-center flex flex-col items-center justify-center px-4&quot;]/div[@class=&quot;inline-block rounded-md max-w-full overflow-hidden text-left align-middle transition-all transform bg-white shadow-xl w-auto h-auto my-8 opacity-100 scale-100&quot;]/div[@class=&quot;flex justify-between items-center  border-b p-4&quot;]/button[@class=&quot;right-2 top-2 bg-white rounded-full p-1.5 border border-blue-400&quot;]</value>
+      <webElementGuid>50a4b806-a9ff-45ae-b346-b8a883a321d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-14']/div/div[2]/div/button</value>
+      <webElementGuid>de9dc6d6-cf69-423e-a089-36638a2347ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::button[2]</value>
+      <webElementGuid>45156782-ca7c-40c6-8a9c-b01df6148ca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AML &amp; KYC Policy'])[1]/following::button[2]</value>
+      <webElementGuid>11935605-19e5-4d4a-94a0-e5543ac1739d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>8bd19274-5f0e-4176-bbd7-e45eb24b576e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

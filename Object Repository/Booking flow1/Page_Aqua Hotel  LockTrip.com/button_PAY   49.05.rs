@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_PAY   49.05</name>
+   <tag></tag>
+   <elementGuidId>ef8313b6-2432-4de4-bf12-6c1e36752624</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c0f30db7-6c2d-4682-ab3a-aaaab0a0864a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>82074ef8-9e2a-4510-95df-e369e68224f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center relative rounded-md no-underline hover:no-underline rounded-md text-white bg-blue-500 hover:bg-indigo-700 focus:ring-indigo-500 border border-transparent shadow-sm focus:outline-none  px-6 py-3 text-base min-w-[150px] max-w-full pay-button</value>
+      <webElementGuid>db86bf2a-2d0c-43d0-9702-83e6ba267bee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PAY  € 49.05</value>
+      <webElementGuid>faff1254-a3e0-4748-b637-16edf519debd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;bg-gray-100&quot;]/div[@class=&quot;max-w-7xl mx-auto&quot;]/form[@class=&quot;w-full&quot;]/main[@class=&quot;grid grid-cols-6 md:grid-cols-12 gap-x-[32px] justify-center p-1 md:p-6&quot;]/div[@class=&quot;col-span-full md:col-span-5&quot;]/div[@class=&quot;md:sticky top-0 z-48&quot;]/div[@class=&quot;relative flex flex-col border border-gray-200 shadow-lg rounded-md bg-white w-auto&quot;]/div[@class=&quot;grow w-full&quot;]/div[@class=&quot;w-full flex flex-col gap-2 p-4&quot;]/button[@class=&quot;inline-flex items-center justify-center relative rounded-md no-underline hover:no-underline rounded-md text-white bg-blue-500 hover:bg-indigo-700 focus:ring-indigo-500 border border-transparent shadow-sm focus:outline-none  px-6 py-3 text-base min-w-[150px] max-w-full pay-button&quot;]</value>
+      <webElementGuid>424ef807-f9d7-421a-bae6-3bdbe60d6449</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>2d609439-de35-45a4-a8a4-4a35fac66019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/form/main/div[2]/div/div/div/div/button</value>
+      <webElementGuid>9433512d-62cb-4fec-a9e9-5e6783711c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='terms &amp; conditions'])[1]/following::button[1]</value>
+      <webElementGuid>9aa9dba9-5569-43bb-ad34-73c4ef992c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hotel cancellation and room policies'])[1]/following::button[1]</value>
+      <webElementGuid>06fa60f5-9f78-43e5-ac21-d95adcc290f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::button[1]</value>
+      <webElementGuid>bfdb49a2-34a4-4306-8172-b336e3c74b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telegram'])[1]/preceding::button[1]</value>
+      <webElementGuid>74966c17-30e3-4563-807d-e1ca1050c15f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>09183256-b217-4075-8f94-497aec187593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'PAY  € 49.05' or . = 'PAY  € 49.05')]</value>
+      <webElementGuid>9866ade5-78b3-4cf1-9781-1237fa2ee9c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

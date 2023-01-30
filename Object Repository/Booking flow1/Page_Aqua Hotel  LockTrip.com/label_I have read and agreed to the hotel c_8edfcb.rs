@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I have read and agreed to the hotel c_8edfcb</name>
+   <tag></tag>
+   <elementGuidId>e9a3f9f9-a5a8-4744-a704-0bfaaead83b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.flex.flex-row.items-start.block.text-xs.text-gray-700</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/form/main/div[2]/div/div/div/div/div[4]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>204bb517-f321-4b7d-bc2c-8ec775986168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-row items-start block text-xs text-gray-700</value>
+      <webElementGuid>441b3ab1-63e1-41df-8641-885e5c557841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have read and agreed to the hotel cancellation and room policies</value>
+      <webElementGuid>7e752dcb-ef72-4b02-afd7-80273f54b07e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;bg-gray-100&quot;]/div[@class=&quot;max-w-7xl mx-auto&quot;]/form[@class=&quot;w-full&quot;]/main[@class=&quot;grid grid-cols-6 md:grid-cols-12 gap-x-[32px] justify-center p-1 md:p-6&quot;]/div[@class=&quot;col-span-full md:col-span-5&quot;]/div[@class=&quot;md:sticky top-0 z-48&quot;]/div[@class=&quot;relative flex flex-col border border-gray-200 shadow-lg rounded-md bg-white w-auto&quot;]/div[@class=&quot;grow w-full&quot;]/div[@class=&quot;w-full flex flex-col gap-2 p-4&quot;]/div[@class=&quot;my-5 p-2 flex flex-col gap-4&quot;]/div[1]/label[@class=&quot;flex flex-row items-start block text-xs text-gray-700&quot;]</value>
+      <webElementGuid>02c8c087-382f-49ba-80ad-d885ce0aa8f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/form/main/div[2]/div/div/div/div/div[4]/div/label</value>
+      <webElementGuid>25ea8133-9f81-4c3d-a40d-095a01770655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adult'])[2]/following::label[7]</value>
+      <webElementGuid>cd436f31-4599-43ff-8803-9c6d3d1eaf99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adult'])[1]/following::label[10]</value>
+      <webElementGuid>d3f49c86-7d9b-4397-96fa-adc09e6a784f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='terms &amp; conditions'])[1]/preceding::label[1]</value>
+      <webElementGuid>bc5b86e8-705b-451f-a78c-5d97fd5afdb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/label</value>
+      <webElementGuid>74e11138-62e7-473c-a73d-5fdb97e6a2c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I have read and agreed to the hotel cancellation and room policies' or . = 'I have read and agreed to the hotel cancellation and room policies')]</value>
+      <webElementGuid>b0cae3ed-77af-4842-b717-1d648f65c850</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
